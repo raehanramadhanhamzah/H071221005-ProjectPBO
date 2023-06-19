@@ -1,0 +1,21 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "projectPBO",
+            "database": "db_barang",
+            "username": "admin",
+            "password": "admin"
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\Zulu\\zulu-17\\lib\\mysql-connector-j-8.0.32\\mysql-connector-j-8.0.32.jar"
+    ]
+}
